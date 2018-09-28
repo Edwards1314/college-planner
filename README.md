@@ -1,1 +1,2 @@
 # college-planner
+This mobile application was created to try and consolidate a college students daily life into one planner. Having one application that can tell you what classes you have, where they are, and what assignments are due, could simplify the madness that is the life of a college student. A planner, virtual or physical, that is well implemented reduces stress and as a result lead to better performance in the classroom. It is my hope that this application can be a part of that solution. 
